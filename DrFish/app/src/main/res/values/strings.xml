@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dr.Fish</string>
+    <string name="action_settings">About</string>
+    <string name="identifyFish">拍照辨識</string>
+    <string name="myFavorite">我的收藏</string>
+    <string name="shareRecipe">食譜交流</string>
+    <string name="myAccount">帳號資訊</string>
+</resources>
